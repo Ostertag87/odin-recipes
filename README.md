@@ -1,0 +1,1 @@
+Projet test proposé par ODIN. Vérifier la capacité à gérer du HTLM et des livraisons GIT
