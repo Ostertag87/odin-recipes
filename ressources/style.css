@@ -1,0 +1,29 @@
+html {
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.nom {
+    color: #F58426;
+}
+
+.titre-presentation {
+    background-color: #006BB6;
+    color: #F58426;
+}
+
+a {
+    color: #1D428A	
+}
+
+p{
+    font-family: "Inter", sans-serif;
+}
+
+li {
+    font-family: "Inter", sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
